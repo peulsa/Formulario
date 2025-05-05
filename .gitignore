@@ -1,8 +1,0 @@
-# Carpetas y archivos innecesarios de NetBeans
-nbproject/private/
-build/
-dist/
-*.class
-*.jar
-build.xml
-manifest.mf
